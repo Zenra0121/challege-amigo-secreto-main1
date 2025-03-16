@@ -62,6 +62,14 @@ Usted puede acceder a mi proyecto haciendo Click en el siguiente enlace
 
 👉[Juego Amigo secreto] https://zenra0121.github.io/challege-amigo-secreto-main1/
 
+## Creditos y Agradecimientos
+
+Quiero agradecer a **Alura Latam** y **Oracle** por el conocimiento compartido y las oportunidades brindadas a través del programa **<a href="https://www.oracle.com/br/education/oracle-next-education/">ONE - Oracle Next Education</a>**.
+
+## Autor 
+
+| [<img loading="Lazy" src="https://github.com/user-attachments/assets/e9a96f40-ae8c-49d3-8499-3312c8e7f892" width="115"><br><sub>Camilo Fonseca</br>
+](https://github.com/Zenra0121) |
 
 
 
