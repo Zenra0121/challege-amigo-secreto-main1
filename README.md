@@ -8,3 +8,7 @@
 <p align="center"> 
   🎁 El juego Amigo Secreto es una herramienta interactiva que te permite gestionar, personalizar y coordinar tu lista de participantes, asegurando un sorteo entretenido y equitativo para todos. 🤝🎉
 </p> 
+
+<p align="center">
+  <a href="#-como-usar">Como usar! 🕹️🎲</a>
+  <a href="#-tecnologias">Tecnologias🖱️</a>
