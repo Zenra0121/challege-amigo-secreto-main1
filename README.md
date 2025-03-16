@@ -50,10 +50,18 @@ Este proyecto consiste en un juego interactivo de **Secret Santa**, donde los us
 [![Oracle](https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logoColor=white)](https://www.oracle.com/br/)
 
 ## Certificados ✨
+
 Fui reconocido con la siguiente Insignia por el programa ONE (Oracle Next Education), iniciativa de Alura Latam en alianza con Oracle:
 <p align= "center">
  <img src="https://github.com/user-attachments/assets/1f3f492c-dd14-46aa-9a62-4d4ad3ded31d" alt="Badge Oracle Next Education" width="300">
 </p>
+
+## Acceso al projecto📲
+
+Usted puede acceder a mi proyecto haciendo Click en el siguiente enlace
+
+👉[Juego Amigo secreto] https://zenra0121.github.io/challege-amigo-secreto-main1/
+
 
 
 
