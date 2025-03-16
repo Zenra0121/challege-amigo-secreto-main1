@@ -44,3 +44,9 @@ Este proyecto consiste en un juego interactivo de **Secret Santa**, donde los us
 6. Pantalla totalmente responsiva, adaptada para diferentes dispositivos.
 7. Validaciones para asegurar que el sorteo sea imparcial y sin repeticiones.
 
+## 🌟 Destacados del Juego Amigo Invisible 🎁✨
+
+[![Alura](https://img.shields.io/badge/Alura-0073CE?style=for-the-badge&logoColor=white)](https://www.alura.com.br/)
+[![Oracle](https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logoColor=white)](https://www.oracle.com/br/)
+
+
