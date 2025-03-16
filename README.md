@@ -31,4 +31,16 @@ Este projecto consiste en un juego interactivo sobre la tematica "Amigo Secreto"
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+##  Projecto ✴︎
+
+Este proyecto consiste en un juego interactivo de **Secret Santa**, donde los usuarios pueden agregar los nombres de sus amigos, eliminarlos si están mal escritos o es necesario, y dibujar quién terminará con quién. El juego te permite gestionar tu lista de amigos de forma dinámica e interactiva.
+
+🎯 **Características principales:**
+1. Agrega amigos al juego.
+2. Eliminar amigos si está mal escrito o es necesario.
+3. Dibuja amigos secretos al azar.
+4. Muestra quién será el amigo secreto de cada persona.
+5. Interfaz amigable y dinámica.
+6. Pantalla totalmente responsiva, adaptada para diferentes dispositivos.
+7. Validaciones para asegurar que el sorteo sea imparcial y sin repeticiones.
 
