@@ -11,4 +11,10 @@
 
 <p align="center">
   <a href="#-como-usar">Como usar! 🕹️🎲</a>
-  <a href="#-tecnologias">Tecnologias🖱️</a>
+  <a href="#-tecnologias">Tecnologias 🖱️</a>
+  <a href="#-proyecto">Projecto ✴︎</a>
+</p>
+
+<p align="center">
+  <i>🎉 Participa en la diversión y trata de descubrir quién te sorprendió con su regalo. 🤔🎁✨</i>
+</p>
