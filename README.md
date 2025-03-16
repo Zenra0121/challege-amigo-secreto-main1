@@ -18,3 +18,9 @@
 <p align="center">
   <i>🎉 Participa en la diversión y trata de descubrir quién te sorprendió con su regalo. 🤔🎁✨</i>
 </p>
+
+## Como usar! 🕹️🎲
+
+https://github.com/Zenra0121/challege-amigo-secreto-main1/blob/main/Funcionamiento.mp4
+
+
