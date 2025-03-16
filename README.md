@@ -21,6 +21,6 @@
 
 ## Como usar! 🕹️🎲
 
-https://github.com/Zenra0121/challege-amigo-secreto-main1/blob/main/Funcionamiento.mp4
+https://github.com/user-attachments/assets/b95b46cb-a344-4706-87b9-e98d12cf4099
 
 
